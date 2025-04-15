@@ -1,6 +1,9 @@
 # Goal
 The goal is to collect all the demostration of the maths formula in one book
 
+# Figshare Link
+https://figshare.com/articles/journal_contribution/How_was_find_all_formulas_of_maths/26339590?file=53007587
+
 # Differentiation with other projects?
 * This project is Open Source, to protect the books of this project of malicious changes the people that want to collaborate, they have to create a pull request that is like a proposal of a modification that have to be accept you can send it by email lucasvarelacorrea@gmail.com or using github https://github.com/White-Mask-230/A-free-owl
 
